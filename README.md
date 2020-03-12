@@ -4,11 +4,17 @@ the ETL Process Creates the Pipelines and Transforms Data in the Process.
 ETL the Wikipedia Movies JSON
 
 ### SITUATION/TASK
+Raw data exists in multiple places  and needs to be cleaned and structured for analysis. 
+Develop an algorithm to predict which low budget movies being released would become popular so the world's largest 
+online retailer can buy the streaming rights at a bargain. Your task is to predict the popular pictures/videos.
 
 ### APPROACH
+Used the ETL Process. The data was filtered, parsed, translated, sorted, interpolated, pivoted, summarized, aggregated and merged.   First create a data set from two sources, a scrape from Wikipedia for all movies released from 1990 and 
+rating data from the Movie Lens website. Secondly, Extract data from the two sources and Transform into one clean dataset. 
+Finally, Load the dataset into a SQL database table.
 
 ### RESULTS
-Clean good data readied for analysis
+Creating a consistent structure in the data by transforming data into a nice clean data set for analysis and problem solving.
 
 ### THINGS LEARNED
 * Create an ETL pipeline from raw data to a SQL database.
@@ -18,10 +24,9 @@ Clean good data readied for analysis
 * Load data with PostgreSQL.
 
 ### SOFTWARE/SKILLS USED
-PostgreSQL, Pandas, Python, ETL Pipelines, Regular Expressions
+PostgreSQL, Pandas, Python, ETL Pipelines, Regular Expressions, Jupyter Notebook
 
-
-### 5 ASSUMPTIONS MADE
+### FIVE ASSUMPTIONS MADE
 It's important to ensure that the following assumptions about the data are true: 
 
 1) The function performs all transformation steps, with no errors.   
