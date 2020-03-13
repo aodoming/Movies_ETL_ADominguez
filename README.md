@@ -18,14 +18,15 @@ Finally, Load the dataset into a SQL database table.
 
 <img align="left" width="260" src="pics/Extract.png"><br/>
 <img align="left" width="260" src="/pics/Transform.png"><br/>
-<img align="left" width="260" src="/pics/Load.png"><br/>
+<img align="left" width="260" src="/pics/Load.png"><br/><br/><br/>
+
 
 
 ### RESULTS
 Creating a consistent structure in the data by transforming data into a nice clean data set for analysis and problem solving.
 
 * Structured Data Loaded Into SQL Database
-![]("/pics/PostgresSQL_table.png")
+![](/pics/PostgresSQL_table.png)
 
 ### THINGS LEARNED
 * Create an ETL pipeline from raw data to a SQL database.
