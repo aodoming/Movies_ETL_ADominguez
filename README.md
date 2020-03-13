@@ -3,7 +3,7 @@ Using the Extract, Transform, Load Process to Create Data Pipelines. A Data Pipe
 the ETL Process Creates the Pipelines and Transforms Data in the Process.
 ETL the Wikipedia Movies JSON
 
-![]("/pics/ETL_process.png")
+![](/pics/ETL_process.png)
 
 ### SITUATION/TASK
 Raw data exists in multiple places  and needs to be cleaned and structured for analysis. 
