@@ -1,7 +1,7 @@
 # DESCRIPTION
-Using the Extract, Transform, Load Process to Create Data Pipelines. A Data Pipepline Transports Data from Source to Destination, and 
-the ETL Process Creates the Pipelines and Transforms Data in the Process.
-ETL the Wikipedia Movies JSON
+Using the Extract, Transform, Load (ETL) process to create data pipelines for a Wikipedia Movies JSON data.
+A data pipepline transports data from Source to destination, and the ETL process creates the pipelines and transforms data in the process.
+
 
 ![](/pics/ETL_process.png)
 
