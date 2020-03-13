@@ -3,6 +3,8 @@ Using the Extract, Transform, Load Process to Create Data Pipelines. A Data Pipe
 the ETL Process Creates the Pipelines and Transforms Data in the Process.
 ETL the Wikipedia Movies JSON
 
+![]("/pics/ETL_process.png")
+
 ### SITUATION/TASK
 Raw data exists in multiple places  and needs to be cleaned and structured for analysis. 
 Develop an algorithm to predict which low budget movies being released would become popular so the world's largest 
@@ -13,8 +15,17 @@ Used the ETL Process. The data was filtered, parsed, translated, sorted, interpo
 rating data from the Movie Lens website. Secondly, Extract data from the two sources and Transform into one clean dataset. 
 Finally, Load the dataset into a SQL database table.
 
+
+<img align="left" width="260" src="pics/Extract.png"><br/>
+<img align="left" width="260" src="/pics/Transform.png"><br/>
+<img align="left" width="260" src="/pics/Load.png"><br/>
+
+
 ### RESULTS
 Creating a consistent structure in the data by transforming data into a nice clean data set for analysis and problem solving.
+
+* Structured Data Loaded Into SQL Database
+![]("/pics/PostgresSQL_table.png")
 
 ### THINGS LEARNED
 * Create an ETL pipeline from raw data to a SQL database.
