@@ -18,7 +18,7 @@ Finally, Load the dataset into a SQL database table.
 
 <img align="left" width="260" src="pics/Extract.png"><br/>
 <img align="left" width="260" src="/pics/Transform.png"><br/>
-<img align="left" width="260" src="/pics/Load.png"><br/><br/><br/>
+<img align="left" width="260" src="/pics/Load.png"><br/><br/><br/><br/><br/><br/>
 
 
 
