@@ -35,7 +35,7 @@ Creating a consistent structure in the data by transforming data into a nice cle
 * Use regular expressions to parse data and to transform text into numbers.
 * Load data with PostgreSQL.
 
-### SOFTWARE/TOOLS
+### SOFTWARE/
 PostgreSQL, Pandas, Python, ETL Pipelines, Regular Expressions, Jupyter Notebook
 
 ### FIVE ASSUMPTIONS MADE
